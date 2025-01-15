@@ -42,6 +42,7 @@
  프로젝트 설계, 구현, PPT
 
 <div align="center">
+  
    | ![s1](https://github.com/user-attachments/assets/3e0a587c-8c65-4879-b921-73d6f1c21a93) | ![s2](https://github.com/user-attachments/assets/1909adeb-ec03-4eeb-b673-bc50dca227a2) |   
    | :----------: | :----------: |
    | ![s3](https://github.com/user-attachments/assets/8a4a01af-59c9-4ebc-b8a7-28ef329997d3) | ![s4](https://github.com/user-attachments/assets/ce644ba7-003b-446d-8e7d-ec1f1db3bedb) |
