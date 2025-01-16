@@ -104,4 +104,18 @@
  * `회원가입` 후 로그인 한다. 성공적 으로 되면 메인페이지 로 이동하고 로그인 모달창 이 변경된다.
 
 ![ezgif com-video-to-gif-converter (2)](https://github.com/user-attachments/assets/97063060-2bb6-4052-9126-b00a24a0efa9)
- 
+
+
+ * **회원정보 수정**
+ * 메인페이지 사람모양 클릭하면 모달창 이 나온다. 모달창 에서 '회원정보수정' 클릭하면 `회원정보수정` 페이지 로 이동한다.
+ * 비밀번호 및 전화번호 수정 후 `회원정보수정` 을 클릭한다. 만약 성공적으로 수정이 되었으며 `수정이 완료되었습니다` 모달창이
+   나온다.
+
+![ezgif com-video-to-gif-converter (3)](https://github.com/user-attachments/assets/3399ed7f-96cd-42f0-80e4-39b74e38770c)
+
+* **관리자 로그인**
+* 메인페이지 하단 에 `관리자 로그인` 클릭하면 관리자 페이지 로그인 화면 으로 이동한다.
+* 아이디, 비밀번호 입력 후 인증 이 성공하면 관리자 메인페이지 로 이동한다.
+* 관리자 계정은 회원가입 을 안하고 DB 계정 을 생성하는 방식 으로 했다.
+
+![ezgif com-video-to-gif-converter (4)](https://github.com/user-attachments/assets/f8fc5fcc-e75d-455f-9380-17cbf0882f8c)  
