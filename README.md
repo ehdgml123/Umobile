@@ -41,6 +41,7 @@
  ## :bookmark_tabs: 프로젝트 설계, 구현 📂 PPT 📂 (ERD, USECASE)
  프로젝트 설계, 구현, PPT
 
+<details><summary>PPT</summary>
 <div align="center">
   
    | ![s1](https://github.com/user-attachments/assets/3e0a587c-8c65-4879-b921-73d6f1c21a93) | ![s2](https://github.com/user-attachments/assets/1909adeb-ec03-4eeb-b673-bc50dca227a2) |   
@@ -70,6 +71,7 @@
    | ![s46](https://github.com/user-attachments/assets/13312131-0ef5-4dea-a22c-33d4563efd00) | ![s47](https://github.com/user-attachments/assets/c1f071d5-e7ed-4776-aa00-819e3652bad5) |
    | ![s48](https://github.com/user-attachments/assets/ea95aad8-126a-4bc4-9715-f7c17db5f50a) | ![s49](https://github.com/user-attachments/assets/d66340ad-5e38-49e2-a89c-59617c875ed5) |
 </div>
+</details>
 
 
  ## 💻 핵심 기능
