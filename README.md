@@ -140,6 +140,11 @@
  ![ezgif com-video-to-gif-converter (5)](https://github.com/user-attachments/assets/31b39392-cc2b-4248-a401-bb3c78c1702f)
 
 
+* **핸드폰 리뷰작성**
+* `핸드폰신청내역` 에 들어가 리뷰작성 하고 싶은 핸드폰 에 `리뷰작성` 버튼 을 클릭하면 리뷰작성하는 페이지로 이동한다.
+* 리뷰 작성하고 `리뷰작성 완료` 버튼 을 누르고 리뷰 작성한 핸드폰 상세페이지 에 들어가면 방금 작성한 리뷰가 추가 가 되어있다.
 
+![ezgif com-video-to-gif-converter (6)](https://github.com/user-attachments/assets/38f30716-68d0-459e-aa59-def01a1d0c93)
+  
  
 
