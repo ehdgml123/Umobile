@@ -146,5 +146,37 @@
 
 ![ezgif com-video-to-gif-converter (6)](https://github.com/user-attachments/assets/38f30716-68d0-459e-aa59-def01a1d0c93)
   
- 
+ * **핸드폰 견적비교**
+ * `견적비교` 를 클릭하면 견적비교 페이지로 이동하게 된다.
+ * 페이지 에 이동하게 되면 핸드폰 리스트 가 들어있다.
+ * 견적비교 하고 싶은 핸드폰 이 있다면 체크박스 를 누르면 하단 에 핸드폰이 추가 가 된다. 또한, 체크박스 를 제거하면 추가 가 된
+   핸드폰 이 없어진다.
+  * 하단 에 핸드폰 2개 있고 `핸드폰 비교하기` 버튼을 누르면 2개 의 핸드폰 견적이 나온다.
 
+![ezgif com-video-to-gif-converter (7)](https://github.com/user-attachments/assets/23ede52f-711e-40f4-98bb-b02a291d0c7a)
+
+
+ * **공지사항 등록**
+ * `관리자 페이지` 이동해서 `공지사항` 을 클릭하면 공지사항 관리페이지 로 이동한다.
+ * `공지사항 등록하기` 버튼 을 클릭하게 되면 공지사항 등록하는 페이지로 이동하게 된다. 작성 후
+   `등록하기` 버튼 을 클릭하게 되면 등록이 완료되고 `공지사항 관리` 페이지, `관리자메인페이지` 에 추가된다.
+ * 메인페이지 공지사항에도 추가 가 된것을 볼 수 있다.  
+
+![ezgif com-video-to-gif-converter (8)](https://github.com/user-attachments/assets/db6e301a-77b2-4e91-b4b0-eb641c4e94ec)
+
+ * **공지사항 수정**
+ * 관리자 페이지 `공지사항 관리페이지` 에서 수정하고 싶은 공지사항 을 누르며 공지사항 상세페이지 가 나오고 하단에 `수정하기` 버튼을 
+   누르면 수정할수 있다.
+
+ ![ezgif com-video-to-gif-converter (9)](https://github.com/user-attachments/assets/fd8e7a41-aa76-487e-8906-9f0d2fffb687)
+
+
+ * **공지사항 삭제**
+ * 관리자 페이지 `공지사항 관리페이지` 에서 삭제하고 싶은 공지사항 을 누르며 공지사항 상세페이지 가 나오고 하단에 `삭제하기` 버튼을 
+   누르면 삭제 가 된다.
+
+![ezgif com-video-to-gif-converter (10)](https://github.com/user-attachments/assets/2de5830c-9090-482e-bc88-3f79eeaa4393)]
+
+## :construction: 개선사항
+ * 핸드폰 견적 조회 기능 에서 조회 기능 휴대폰 조건 을 휴대폰 신청한 기준 으로 하였다. 수정하여 상품 상세페이지 에 `견적조회 추가` 하기
+   버튼 을 추가 하여 버튼을 누르면 해당하는 핸드폰 이 `핸드폰 견적 페이지` 에 추가 가 되게 기능을 수정하겠다.   
