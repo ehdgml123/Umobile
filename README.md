@@ -125,6 +125,12 @@
 * 상품 내용을 입력 후 `등록하기` 을 클릭하면 상품 관리페이지 로 이동한다.
 * 방금 상품 등록한게 추가 가 되었다.
 
+  ![1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9fe774c6-046c-441f-9485-6aca5724d45c)
+  ![2-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/d7e9694b-17b1-4460-b18a-6d9951912a34)
+  ![3-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/42f4222a-71db-400a-a81b-93a306506741)
+  
+  
+
 
 
 
